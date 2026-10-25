@@ -1,0 +1,5 @@
+name,email,company,phone,stage
+Ravi Kumar,ravi@example.com,ABC Stores,9000000001,new
+Priya Rao,priya@example.com,Example Retail,,contacted
+Ravi Duplicate,RAVI@example.com,ABC Stores,,new
+Invalid Email,not-an-email,Example Company,,new
