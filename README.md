@@ -1,4 +1,4 @@
-# SalesGenie: Varun's Milestone 1 backend
+# SalesGenie: Milestone 1 backend
 
 Start here. This is a separate, clean backend deliverable based on the setup and task plan supplied in chat. Extract it into a NEW folder; do not overwrite your original project or its `.env`. It does not contain anyone's API keys or database password.
 
